@@ -18,6 +18,8 @@ Subway and bus route data is from OSM data. Live data is retrieved using Libcurl
 <img width="443" alt="image" src="https://github.com/kevjchang/peter-griffin-maps/assets/108161055/d30f0144-bd07-43f6-a192-3945b4c05e31">
 
 
+Loading traffic GIF: (https://github.com/kevjchang/peter-griffin-maps/assets/108161055/d80ed560-60fc-4619-b73f-01033ef7cf4a)
+
 # Local Weather
 **Weather Data is updated on the screen when the user clicks on a specific point on the map, which displays the weather location of that specific region.**
 
