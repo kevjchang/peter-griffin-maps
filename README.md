@@ -4,7 +4,7 @@
 
 <img width="419" alt="image" src="https://github.com/kevjchang/peter-griffin-maps/assets/108161055/e4f67da6-615f-4088-8e6e-42e47a6cbab1">
 
-A mapping application designed for commuters and residents of large metropolitan areas. Displays live traffic incident data, live weather, as well as subways/bus routes of various cities. includes dark mode color scheme.
+A C++ mapping application designed for commuters and residents of large metropolitan areas. Displays live traffic incident data, live weather, as well as subways/bus routes of various cities. includes dark mode color scheme.
 
 Uses the OpenStreetMap (OSM) database, along with UofT's EZGL graphics library to render the streets, buildings, and other features.
 Subway and bus route data is from OSM data. Live data is retrieved using Libcurl, using WeatherAPI https://www.weatherapi.com/ and TomTom Traffic incident API https://developer.tomtom.com/traffic-api/documentation/traffic-incidents/incident-details
